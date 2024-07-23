@@ -1,0 +1,14 @@
+title: "Shahriar Robbani"
+description: "Professional Software Developer"
+theme: minima
+
+# Theme settings
+minima:
+  skin: dark
+
+# URL settings
+baseurl: ""
+url: "https://your-github-username.github.io/repository-name"
+
+# Build settings
+markdown: kramdown
